@@ -1,0 +1,117 @@
+header {
+
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Borel', cursive;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(84, 84, 159, 0.5);
+    align-items: center;
+    padding: 10px;
+    margin-top: -20px;
+  
+  
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    opacity: 0.9;
+    height: 50px;
+    margin-right: 10px;
+    margin-left: 15px;
+  
+  
+  }
+  
+  body {
+  
+    margin: 0%;
+    font-family: sans-serif;
+    background-image: url(fondoportfolio1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  h2 {
+    color: rgb(255, 255, 255);
+    height: 45px;
+  
+  }
+  
+  a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-right: 10px;
+    font-weight: 15px;
+    font-family: sans-serif;
+  
+  }
+  
+  a:hover {
+    color: bisque;
+  }
+  
+  .contacto {
+    border: 5px solid black;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    margin-right: 15px;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  .contacto:hover {
+    color: rgb(138, 138, 138);
+  }
+  
+  
+  
+  .sobremi {
+    color: honeydew;
+    font-size: 30px;
+    font-family: 'Borel', cursive;
+    ;
+  
+  
+  }
+  
+  .bustos {
+    color: black;
+  }
+  
+  .bustos:hover {
+    color: rgb(178, 190, 198);
+  }
+  
+  h2:hover {
+    color: #eb00a0;
+  }
+  
+  .foto {
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  
+  
+  }
+  
+  .foto img {
+    border-radius: 150%;
+    border-style: double;
+    border-color: darkorchid;
+    border-width: 5px;
+  }
+  
+  .foto h2 {
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+  
+  }
